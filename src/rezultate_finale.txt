@@ -1,0 +1,3 @@
+-0.006 <- randamentul mediu
+0.010 <- volatilitate
+-0.570 <- Sharpe ratio
